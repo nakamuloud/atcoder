@@ -57,7 +57,7 @@ acc new abs
 cd abs/practicea/
 vi main.py
 ojt
-acc submit main.py
+acc submit main.py -- --guess-python-interpreter pypy
 ```
 
 ## 参考
