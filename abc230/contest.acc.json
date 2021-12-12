@@ -20,13 +20,21 @@
       "id": "abc230_b",
       "label": "B",
       "title": "Triple Metre",
-      "url": "https://atcoder.jp/contests/abc230/tasks/abc230_b"
+      "url": "https://atcoder.jp/contests/abc230/tasks/abc230_b",
+      "directory": {
+        "path": "b",
+        "submit": "main.py"
+      }
     },
     {
       "id": "abc230_c",
       "label": "C",
       "title": "X drawing",
-      "url": "https://atcoder.jp/contests/abc230/tasks/abc230_c"
+      "url": "https://atcoder.jp/contests/abc230/tasks/abc230_c",
+      "directory": {
+        "path": "c",
+        "submit": "main.py"
+      }
     },
     {
       "id": "abc230_d",
